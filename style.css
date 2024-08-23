@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+button{
+    background-color: black;
+    color: white;
+    width: 8em;
+    height: 3em;
+    margin-top: 2em;
+}
+
+button:hover{
+    background-color: rgb(224, 124, 36);
+}
+
+.head1{
+    text-align: center;
+    margin-top: 2em;
+}
+
+.head2{
+    text-align: center;
+    padding: 2em;
+    font-weight: 20px;
+}
+
+.head3{
+    text-align: center;
+    padding: 4em;
+    font-weight: 20px;
+    margin-bottom: 2em;
+}
+
