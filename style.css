@@ -8,13 +8,17 @@
 button{
     background-color: black;
     color: white;
-    width: 8em;
+    width: 10em;
     height: 3em;
     margin-top: 2em;
 }
 
 button:hover{
-    background-color: rgb(224, 124, 36);
+    background-color: #c7a50d;
+}
+
+span{
+    color: sienna;
 }
 
 .head1{
@@ -33,5 +37,15 @@ button:hover{
     padding: 4em;
     font-weight: 20px;
     margin-bottom: 2em;
+}
+
+.footer{
+    background-color: rgb(37, 37, 37);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 2em;
+    padding-bottom: 2em;
 }
 
